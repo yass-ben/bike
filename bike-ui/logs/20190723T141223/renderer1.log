@@ -1,0 +1,2 @@
+[2019-07-23 14:12:53.551] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/yacine-ben/Téléchargements/bike/bike-ui/.vscode'
+[2019-07-23 14:12:53.551] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/yacine-ben/Téléchargements/bike/bike-ui/.vscode'
